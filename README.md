@@ -75,8 +75,9 @@ Leon Ardho - https://www.pexels.com/photo/barbell-on-the-floor-1552252/
 
 Andrea Piacquadio - https://www.pexels.com/photo/serious-sportsman-training-on-exercise-machine-in-modern-gym-3838937/
 
-Frans Van Heerden - https://www.pexels.com/photo/woman-lifting-green-and-black-barbell-1566404/
+Jonathan Borba - https://www.pexels.com/photo/woman-kneeling-with-barbel-on-shoulders-3076514/
 
+William Choquette - https://www.pexels.com/photo/an-on-treadmill-1954524/
 
 -Acknowledgements
 ---I received inspiration for this project from X
