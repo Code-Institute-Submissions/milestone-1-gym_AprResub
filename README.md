@@ -79,5 +79,9 @@ Jonathan Borba - https://www.pexels.com/photo/woman-kneeling-with-barbel-on-shou
 
 William Choquette - https://www.pexels.com/photo/an-on-treadmill-1954524/
 
+Pixabay - https://www.pexels.com/photo/adult-athlete-body-bodybuilding-414029/
+
+Burst - https://www.pexels.com/photo/shallow-focus-photo-of-spoon-373941/
+
 -Acknowledgements
 ---I received inspiration for this project from X

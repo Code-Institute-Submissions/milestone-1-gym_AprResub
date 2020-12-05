@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
@@ -17,7 +15,7 @@
         <nav class="navbar navbar-expand-sm">
             <a class="navbar-brand mr-auto" href="index.html">Fortitude</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+            <i class="fas fa-bars"></i>
             </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav nav-menu">
@@ -49,7 +47,31 @@
     </header>    
     <!--Lifestyle-->
     <section>
-
+        <div class="lifestyle">
+            <div class="container">
+                <h2>Create a Healthy Foundation</h2>
+                <div class="row">
+                    <div class="col-lg-6 basics">                           
+                            <p>
+                                Meet with our Registered Dietitians to get a personalized plan, supplement guides and recipes. Work together to set healthier food habits and create results that last.
+                            </p>
+                    </div>
+                    <div class="col-lg-6">
+                        <img src="assets/images/food.jpeg" alt="Woman working out with personel trainer">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 basics">
+                        <p>
+                        Get the most from your gym time. Our one-on-one sessions pair you with a coach who will guide you to the workouts that fit your goals and motivate you to create healthy habits with your nutrition, mindset, movement and recovery.
+                        </p>
+                    </div>
+                    <div class="col-lg-6 equipment-img">
+                        <img src="assets/images/trainer.jpeg" alt="Woman working out with personel trainer">
+                    </div>                   
+                </div>                  
+            </div>
+        </div>
     </section>
     <footer>
         <!--Contact--> 
@@ -92,8 +114,8 @@
                         <input type="name" class="form-control" id="name" placeholder="Name">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email"> 
+                        <label for="email1">Email address</label>
+                        <input type="email" class="form-control" id="email1" aria-describedby="emailHelp" placeholder="Email"> 
                         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                     </div>
                     <div class="form-group">
@@ -104,7 +126,7 @@
                         <label for="repeatpassword">Repeat password</label>
                         <input type="password" class="form-control" id="repeatpassword" placeholder="Repeat Password">
                     </div>
-                    <button type="submit" class="btn btn-primary">Join Now!</button>
+                    <button type="submit" class="btn btn-join">Join Now!</button>
                     </form>
             </div>
             </div>
