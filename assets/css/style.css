@@ -14,10 +14,6 @@ body {
 
 /*--------------------nav*/
 
-.navbar button {
-    z-index: 2;
-}
-
 .navbar-brand {
     font-family: 'Piedra', sans-serif;
     font-size: 48px;
@@ -29,6 +25,7 @@ body {
     padding-left: 20px;
     float: right;
     text-align: center;
+    color: #738e92;
 }
 
 .nav-link {
@@ -149,6 +146,7 @@ body {
 /*--------------------social*/
 
 .social {
+    padding-inline-start: 0;
     text-align: center;
 }
  .social li {
@@ -156,7 +154,7 @@ body {
  }
 
  .social i {
-     color: #856404;
+     color: #738e92;
      font-size: 150%;
      padding: 5%;
  }
@@ -165,7 +163,11 @@ body {
 .social i:active,
 .social i:focus,
 .social i:active:focus {
-    color: #503e08;
+    color: #0056b3;
 }
 
 /*--------------------modal*/
+
+.modal-body {
+    color: #000;
+}
