@@ -14,35 +14,34 @@
 <body>
     <header>         
         <!--Nav-->   
-            <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-sm">
             <a class="navbar-brand mr-auto" href="#">Fortitude</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-        
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-menu">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Classes</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Lifestyle</a>
-                    </li>
-                </ul>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav nav-menu">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Classes</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Lifestyle</a>
+                        </li>
+                    </ul>
             </div>
             </nav>           
         <!--Callout-->
         <div class="callout">
         <section class="container-fluid jumbotron text-center">
+            <div class="overlay">&nbsp;</div>
             <div class="row">
                 <div class="col-12 jumbotron-text" >
                 <h2>Where the tough triumph!</h2>
                 <p>Challenge yourself</p>
-                <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target=#join-modal>Join now!</button>
+                <button type="button" class="btn btn-join btn-lg" data-toggle="modal" data-target=#join-modal>Join now!</button>
                 </div>
             </div>
         </section>
@@ -52,41 +51,47 @@
         <!--Amenities-->
         <div class="amenities">
             <div class="container">
+                <h2>The Best of the Basics</h2>
                 <div class="row">
-                    <div class="col-lg-6">    
-                        <p>All the building blocks of fitness and training</p>
+                    <div class="col-lg-6 basics">                           
+                            <p>
+                                All the building blocks of fitness and training, and then some. Whether you need to pump up or cool down, you’ll find the space, equipment and inspiration you need to do it right.
+                            </p>
                     </div>
-                    <div class="col-lg-6">
-                        <img id="amenities-img" src="assets/images/treadmill.jpeg" alt="" class="mr-3" width="80%">
+                    <div class="col-lg-6 basics-img">
+                        <img id="amenities-img" src="assets/images/treadmill.jpeg" alt="Man on Treadmill">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6">
-                        <p>You’ll find equipment and support to do it right.</p>
+                    <div class="col-lg-6 equipment">                       
+                        <ul>
+                            <li> Cardio Machines</li>
+                            <li>Strength Machines</li>
+                            <li>Free Weights & Kettlebells</li>
+                            <li>Olympic-Style Weight Platforms</li>
+                            <li>Functional Training Areas</li>
+                            <li>Stretching Areas & Equipment</li>
+                        </ul>
                     </div>
-                    <div class="col-lg-6">
-                        <img src="assets/images/girl-lift.jpeg" alt="" class="mr-3" width="80%">
-                    </div>
-                    
+                    <div class="col-lg-6 equipment-img">
+                        <img src="assets/images/girl-lift.jpeg" alt="Woman lifting weights">
+                    </div>                   
                 </div>                  
             </div>
         </div>
     </section>
     <footer>
         <!--Contact--> 
-        <div class="about">     
         <div class="container">
-            <div class="row" id="about">
-                <div class="col-lg-6">
+            <div class="row about">
+                <div class="col-lg-6 contact">
                     <h3>Contact:</h3>
                     <p>Phone: 555 7402 <br>Address: 123 Fake Street <br>Email: fortitude@fake.com </p>
-                </div>
-                
-            <!--Membership-->
-                <div class="col-lg-6">   
+                </div>               
+                <div class="col-lg-6 contact">   
                     <h3>Membership:</h3>
                     <p>Daycare service, physiotherapy and nutritional cunsultation all included</p>
-                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#join-modal">Join now!</button>
+                    <button type="button" class="btn btn-join" data-toggle="modal" data-target="#join-modal">Join now!</button>
                 </div> 
             </div>
         </div>

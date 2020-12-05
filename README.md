@@ -1,4 +1,4 @@
-`python3 -m http.server`
+python3 -m http.server
 
 ---Your Project's Name
 #Fortitude Gym
