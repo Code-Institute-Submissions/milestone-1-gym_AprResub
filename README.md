@@ -1,11 +1,12 @@
 python3 -m http.server
 
----Your Project's Name
+Milestone Project 1
+
 #Fortitude Gym
 
----One or two paragraphs providing an overview of your project.
+Purpose:
 
-Fictional gym for my milestone project.
+Fortitude gym is fictional gym created using HTML and CSS for my milestone project. It will provide users with information on the gym and it's services for existing and potential members.
 
 ---Essentially, this part is your sales pitch.
 
@@ -19,6 +20,14 @@ Fictional gym for my milestone project.
 
 ---Features
 ---In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Navbar
+
+Callout
+
+Services
+
+Contact Information
+
 
 ---Existing Features
 ---Feature 1 - allows users X to achieve Y, by having them fill out Z
