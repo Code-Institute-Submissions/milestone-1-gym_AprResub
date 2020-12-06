@@ -79,6 +79,14 @@ Jonathan Borba - https://www.pexels.com/photo/woman-kneeling-with-barbel-on-shou
 
 William Choquette - https://www.pexels.com/photo/an-on-treadmill-1954524/
 
+Victor Freitas - https://www.pexels.com/photo/man-wearing-black-shorts-lifting-heavy-barbells-841135/
+
+Andrea Piacquadio - https://www.pexels.com/photo/photo-of-woman-using-earphones-3757954/
+
+Ketut Subiyanto - https://www.pexels.com/photo/photo-of-man-doing-push-ups-using-yellow-kettlebell-4720251/
+
+Andrea Piacquadio - https://www.pexels.com/photo/women-doing-yoga-class-on-pink-yoga-mat-3775593/
+
 Pixabay - https://www.pexels.com/photo/adult-athlete-body-bodybuilding-414029/
 
 Burst - https://www.pexels.com/photo/shallow-focus-photo-of-spoon-373941/

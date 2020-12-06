@@ -180,7 +180,14 @@ body {
 }
 
 .class-row {
+    padding-top: 3%;
     padding-bottom: 3%;
+}
+
+.lifestyle h2 {
+    padding-top: 5%;
+    padding-bottom: 3%;
+    text-align: center;
 }
 
 .lifestyle img {
