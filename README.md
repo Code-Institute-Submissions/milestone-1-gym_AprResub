@@ -4,7 +4,7 @@
 
 ## Purpose:
 
-Fortitude gym is fictional gym created using HTML and CSS for my milestone project. It will provide users with information on the gym and it's services for existing and potential members.
+Fortitude gym is fictional gym created using HTML and CSS for my first milestone project. It will provide users with information on the gym and it's services for existing and potential members.
 
 Gym owner would like to aqquire new customers and provide existing customers with any relevant information.
 
@@ -19,6 +19,10 @@ Find location and contact details.
 See what's included in membership.
 
 Sign up to gym.
+
+### As the site owner, I wish to:
+
+
 
 ## Structure:
 
@@ -62,6 +66,10 @@ Got text for classes and personal trainers from 24 hour fittness - https://www.2
 ### Photos:
 
 Leon Ardho - https://www.pexels.com/photo/barbell-on-the-floor-1552252/
+
+cottonbro - https://www.pexels.com/photo/man-in-black-t-shirt-and-black-pants-playing-skateboard-4761352/
+
+Leon Ardho - https://www.pexels.com/photo/man-and-woman-holding-battle-ropes-1552242/
 
 Andrea Piacquadio - https://www.pexels.com/photo/serious-sportsman-training-on-exercise-machine-in-modern-gym-3838937/
 

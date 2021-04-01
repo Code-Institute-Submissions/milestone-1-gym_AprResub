@@ -55,6 +55,38 @@ body {
     position: relative;
 }
 
+.callout-classes {
+    height: 100vh;
+     
+     background: url("../images/pexels-cottonbro-4761352.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.callout-lifestyle {
+    height: 100vh;
+     
+     background: url("../images/pexels-leon-ardho-1552242.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
 /*--------------------jumbotron*/
 
 .jumbotron {
