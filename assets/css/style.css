@@ -187,7 +187,8 @@ body {
 
 /*--------------------classes*/
 
-.classes, .lifestyle h2 {
+.classes h2,
+.classes h3 {
     padding-top: 5%;
     padding-bottom: 3%;
     text-align: center;
@@ -207,7 +208,8 @@ body {
 
 /*--------------------lifestyle*/
 
-.lifestyle h2 {
+.lifestyle h2,
+.lifestyle h3 {
     padding-top: 5%;
     padding-bottom: 3%;
     text-align: center;
