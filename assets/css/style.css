@@ -146,11 +146,12 @@ body {
 
 .equipment {
     padding: 10%;
-    float: right;   
+    float: left;
 }
 
 .equipment ul {
     list-style-type: none;
+    padding-left: 0;
 }
 
 /*--------------------about*/
@@ -220,4 +221,15 @@ body {
     width: 100%;
     padding: 10%;
     margin: 0 auto;
+}
+
+@media screen and (max-width: 990px) {
+    .equipment,
+    .basics {
+        display: flex;
+        padding: none;
+        float: left;
+        text-align: center;
+        justify-content: center;
+    }
 }
