@@ -2,7 +2,7 @@
 
 ### Fortitude Gym
 
-![Mockup](assets/wireframes/Screenshot 2021-04-07 222424.png)
+![Mockup](assets/wireframes/mockup.png)
 
 ## Purpose:
 
