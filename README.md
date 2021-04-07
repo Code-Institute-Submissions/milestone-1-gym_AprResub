@@ -12,21 +12,33 @@ Gym owner would like to aqquire new customers and provide existing customers wit
 
 ### As a user, I wish to be able to: 
 
+Easily navigate the site to find what I need.
+
 Find out what services are provided.
 
 Find location and contact details.
 
 See what's included in membership.
 
-Sign up to gym.
+Sign up to recievive more membership details and offers.
+
+View social media account to see latest posts and follow to keep updated.
 
 ### As the site owner, I wish to:
 
+Aquire new members.
 
+Show new members the services and equipment on offer.
+
+Provide relevent information to existing members
 
 ## Structure:
 
-All pages will consist of a navigation bar, a callout with a sign up button, a footer with contact and membership details and links to social media  
+All pages will consist of a navigation bar, a callout with a sign up button, a footer with contact and membership details and links to social media.
+
+### Wireframe mockups:
+
+[Home Page](/images/home.pdf)
 
 ## Features:
 
@@ -34,7 +46,7 @@ The navbar will bring users to their desired location.
 
 The join now button will trigger a pop out modal prompting users to enter their details.
 
-The social media links will all direct users to the associated website in a new window.
+The social media links will all direct users to the associated website in a new window. 
 
 ## Technologies:
 
