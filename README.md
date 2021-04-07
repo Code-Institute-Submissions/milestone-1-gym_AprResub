@@ -38,9 +38,11 @@ All pages will consist of a navigation bar, a callout with a sign up button, a f
 
 ### Wireframe mockups:
 
-[Home Page](assets/images/small.pdf)
+[Home Page](assets/wireframes/home.pdf)
 
-[Lifestyle](assets/images/lifestyle.pdf)
+[Classes](assets/wireframes/classes.pdf)
+
+[Lifestyle](assets/wireframes/lifestyle.pdf)
 
 ## Features:
 
