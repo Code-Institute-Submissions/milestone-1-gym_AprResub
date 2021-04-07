@@ -9,13 +9,13 @@ body {
 
 .navbar-brand {
     font-family: 'Piedra', sans-serif;
-    font-size: 48px;
+    font-size: 3em;
     color: #7d9b9f;
 }
 
 .nav-menu {
     font-family: 'Roboto', sans-serif;
-    padding-left: 20px;
+    padding-left: 2em;
     float: right;
     text-align: center;
     color: #7d9b9f;
@@ -26,7 +26,7 @@ body {
 }
 
 .nav-item {  
-    padding-left: 20px;
+    padding-left: 2em;
 }
 .navbar i {
     color: #7d9b9f;
@@ -97,12 +97,12 @@ body {
     color: #7d9b9f;
     font-weight: 700;
     text-transform: uppercase;
-    margin-bottom: 50px; 
+    margin-bottom: 5em; 
 }
 
 .btn-join {
     background-color: #856404;
-    border-radius: 20px;
+    border-radius: 2em;
     border-color: #856404;
     color: white;
 }
