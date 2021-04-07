@@ -40,6 +40,8 @@ All pages will consist of a navigation bar, a callout with a sign up button, a f
 
 [Home Page](assets/images/small.pdf)
 
+[Lifestyle](assets/images/lifestyle.pdf)
+
 ## Features:
 
 The navbar will bring users to their desired location.
