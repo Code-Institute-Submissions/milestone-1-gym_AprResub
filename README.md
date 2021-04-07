@@ -2,6 +2,8 @@
 
 ### Fortitude Gym
 
+![Mockup](assets/wireframes/Screenshot 2021-04-07 222424.png)
+
 ## Purpose:
 
 Fortitude gym is fictional gym created using HTML and CSS for my first milestone project. It will provide users with information on the gym and it's services for existing and potential members.
