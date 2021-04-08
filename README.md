@@ -115,8 +115,6 @@ To deploy to Github pages, the following steps were taken:
 4. Scroll to Github pages section, select master branch in dropdown menu and click save
 5. The link to the deployed website should now be displayed by the Github pages heading
 
-_Deployed site:_
-
 ## Running project locally
 
 1. Install [Gitpod browser extension](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki?hl=en) for Chrome
