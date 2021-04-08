@@ -96,7 +96,7 @@ _Find contact info and details:_
 
 ## Deployment:
 
-* Live site at: 
+* [Live site](https://patricksingleton86.github.io/milestone-1-gym/)
 
 This project was developed in gitpod development environment, commited to Github using the built in function in the terminal.
 
