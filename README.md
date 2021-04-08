@@ -8,8 +8,6 @@
 
 Fortitude gym is fictional gym created using HTML and CSS for my first milestone project. It will provide users with information on the gym and it's services for existing and potential members.
 
-Gym owner would like to aqquire new customers and provide existing customers with any relevant information.
-
 ## User Stories:
 
 ### As a user, I wish to be able to: 
@@ -22,21 +20,13 @@ Find location and contact details.
 
 See what's included in membership.
 
-Sign up to recievive more membership details and offers.
-
-View social media account to see latest posts and follow to keep updated.
-
 ### As the site owner, I wish to:
 
-Aquire new members.
-
-Show new members the services and equipment on offer.
-
-Provide relevent information to existing members
+Aquire new customers and provide existing customers with any relevant information.
 
 ## Structure:
 
-All pages will consist of a navigation bar, a callout with a sign up button, a footer with contact and membership details and links to social media.
+All pages will consist of a navigation bar, a callout with a sign up button for membership deals and special offers and a footer with contact and membership details and links to social media.
 
 ### Wireframe mockups:
 
@@ -56,27 +46,78 @@ The social media links will all direct users to the associated website in a new 
 
 ## Technologies:
 
-Bootstrap 4 was used for layout, to reduce navbar to hamburger menu and for the modal popout. https://getbootstrap.com/
+* Bootstrap 4 was used for layout, to reduce navbar to hamburger menu and for the modal popout. https://getbootstrap.com/
 
-Google fonts was used for the fonts used on site(Piedra an Roboto). https://fonts.google.com/
+* Google fonts was used for the fonts used on site(Piedra an Roboto). https://fonts.google.com/
 
-Font Awesome was used for the social media icon links and also for the hamburger menu icon on mobile. https://fontawesome.com/
+* Font Awesome was used for the social media icon links and also for the hamburger menu icon on mobile. https://fontawesome.com/
 
 ## Testing:
 
-The nav links bring you to the desired location.
+* The nav links bring you to the desired location. No dead links, modals work as expected.
 
-The join now button triggers the modal - had to add required for inputs.
+* The join now button triggers the modal - appropriate inputs are required.
 
-The social media links bring you to the corresponding page in a new tab.
+* The social media links bring you to the corresponding page in a new tab.
+
+#### Bug fixes
+
+* Not many interesting/noteworthy bugs to speak of, more time experimenting with styling
+
+* Occasional contrast issues found with dev tools but easy fix with lighter shades of same color
+
+#### User stoty Testing
+
+**Easily navigate the site to find what I need**
+
+* Clearly marked navigation links, contact information and membership details on footer of all pages.
+
+* Site logo always navigates back to homepage
+
+* Clear join button for any users interested in membership
+
+**Find out what services are provided**
+
+* information on equipment, classes, and extra services provide through their respective nav-links
+
+**Find contact info and details**
+
+* contact and membership details in footer along with join button for extra details and offers
 
 ## Deployment:
 
-Code was deployed from Gitpod to GitHub:
+This project was developed in gitpod development environment, commited to Github using the built in function in the terminal.
 
-Settings - Github pages - Source:branch-master - https://patricksingleton86.github.io/milestone-1-gym/.
+To deploy to Github pages, the following steps were taken:
+
+1. Log in to GitHub
+2. From repositories list select [patricksingleton86/milestone-1-gym](https://github.com/patricksingleton86/milestone-1-gym)
+3. From the menu items , select Settings
+4. Scroll to Github pages section, select master branch in dropdown menu and click save
+5. The link to the deployed website should now be displayed by the Github pages heading
+
+### Deployed site
+
+## Running project locally
+
+1. Install [Gitpod browser extension](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki?hl=en) for Chrome
+2. Log into Gitpod
+3. Open the [repository](https://github.com/patricksingleton86/milestone-1-gym) from Github
+4. Click the green Gitpod button above the repository
+5. Project should now open in your own gitpod workspace
+
+#### To run project in a differnt environment
+
+1. Open [project repository](https://github.com/patricksingleton86/milestone-1-gym)
+2. Click the code dropdown beside the gittpod link
+3. Copy the clone url
+4. In your own IDE terminal, cheange the current eork environment to the location you wish the cloned directory to be made
+5. Type 'git clone' and paste the previously copied url
+
 
 ## Credits:
+
+* 
 
 ### Content:
 Got text for classes and personal trainers from 24 hour fittness - https://www.24hourfitness.com/classes/studio/ https://www.24hourfitness.com/training/ 
