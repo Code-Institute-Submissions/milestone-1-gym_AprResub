@@ -123,7 +123,7 @@ To deploy to Github pages, the following steps were taken:
 4. Click the green Gitpod button above the repository
 5. Project should now open in your own gitpod workspace
 
-#### To run project in a differnt environment
+#### To run project in a different environment
 
 1. Open [project repository](https://github.com/patricksingleton86/milestone-1-gym)
 2. Click the code dropdown beside the gittpod link
