@@ -111,7 +111,7 @@ To deploy to Github pages, the following steps were taken:
 
 1. Log in to GitHub
 2. From repositories list select [patricksingleton86/milestone-1-gym](https://github.com/patricksingleton86/milestone-1-gym)
-3. From the menu items , select Settings
+3. From the menu items, select Settings
 4. Scroll to Github pages section, select master branch in dropdown menu and click save
 5. The link to the deployed website should now be displayed by the Github pages heading
 
@@ -126,7 +126,7 @@ To deploy to Github pages, the following steps were taken:
 #### To run project in a different environment
 
 1. Open [project repository](https://github.com/patricksingleton86/milestone-1-gym)
-2. Click the code dropdown beside the gittpod link
+2. Click the code dropdown beside the gitpod link
 3. Copy the clone url
 4. In your own IDE terminal, change the current work environment to the location you wish the cloned directory to be made
 5. Type 'git clone' and paste the previously copied url
