@@ -1,6 +1,6 @@
 # Milestone Project 1
 
-### Fortitude Gym
+# Fortitude Gym
 
 ![Mockup](assets/wireframes/mockup.png)
 
@@ -10,7 +10,7 @@ Fortitude gym is fictional gym created using HTML and CSS for my first milestone
 
 ## User Stories:
 
-### As a user, I wish to be able to: 
+#### As a user, I wish to be able to: 
 
 * Easily navigate the site to find what I need.
 
@@ -20,7 +20,7 @@ Fortitude gym is fictional gym created using HTML and CSS for my first milestone
 
 * See what's included in membership.
 
-### As the site owner, I wish to:
+#### As the site owner, I wish to:
 
 * Aquire new customers and provide existing customers with any relevant information.
 
@@ -28,7 +28,7 @@ Fortitude gym is fictional gym created using HTML and CSS for my first milestone
 
 All pages will consist of a navigation bar, a callout with a sign up button for membership deals and special offers and a footer with contact and membership details and links to social media.
 
-### Wireframe mockups:
+#### Wireframe mockups:
 
 [Home Page](assets/wireframes/home.pdf)
 
@@ -42,9 +42,15 @@ All pages will consist of a navigation bar, a callout with a sign up button for 
 
 * The join now button will trigger a pop out modal prompting users to enter their details.
 
-* The social media links will all direct users to the associated website in a new window. 
+* The social media links will direct users to the associated website in a new window. 
+
+* The logo wil bring users back to home page
 
 ## Technologies:
+
+* HTML
+
+* CSS
 
 * Bootstrap 4 was used for layout, to reduce navbar to hamburger menu and for the modal popout. https://getbootstrap.com/
 
@@ -60,15 +66,19 @@ All pages will consist of a navigation bar, a callout with a sign up button for 
 
 * The social media links bring you to the corresponding page in a new tab.
 
-#### Bug fixes:
+* Ran through V3 html and CSS validators - html is good, checked the CSS error but seems to be flagging bootstrap code incorrectly, code working as desired
 
-* Not many interesting/noteworthy bugs to speak of, more time experimenting with styling and Bootstrap condflicts
+Bug fixes:
 
-* Occasional contrast issues found with dev tools but easy fix with lighter shades of color
+* Not many interesting/noteworthy bugs to speak of, more time experimenting with styling and occasional Bootstrap conflicts
 
-#### User stoty Testing:
+* Contrast issues found with dev tools but easy fix with lighter shades of color
 
-**Easily navigate the site to find what I need**
+* Layout issue, was fine for desktop and mobile but appeared on tablet, fixed with media query at bottom of .css
+
+User stoty Testing:
+
+_Easily navigate the site to find what I need:_
 
 * Clearly marked navigation links, contact information and membership details on footer of all pages.
 
@@ -76,15 +86,17 @@ All pages will consist of a navigation bar, a callout with a sign up button for 
 
 * Clear join button for any users interested in membership
 
-**Find out what services are provided**
+_Find out what services are provided:_
 
 * information on equipment, classes, and extra services provide through their respective nav-links
 
-**Find contact info and details**
+_Find contact info and details:_
 
 * contact and membership details in footer along with join button for extra details and offers
 
 ## Deployment:
+
+* Live site at: 
 
 This project was developed in gitpod development environment, commited to Github using the built in function in the terminal.
 
@@ -96,7 +108,7 @@ To deploy to Github pages, the following steps were taken:
 4. Scroll to Github pages section, select master branch in dropdown menu and click save
 5. The link to the deployed website should now be displayed by the Github pages heading
 
-### Deployed site
+_Deployed site:_
 
 ## Running project locally
 
