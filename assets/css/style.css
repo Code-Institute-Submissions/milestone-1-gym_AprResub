@@ -132,7 +132,8 @@ body {
     text-align: center;
 }
 
-.basics {
+.basics,
+.equipment {
     padding: 10%;
     float: left;
 }
@@ -142,11 +143,6 @@ body {
     width: 100%;
     padding: 10%;
     margin: 0 auto;
-}
-
-.equipment {
-    padding: 10%;
-    float: left;
 }
 
 .equipment ul {
@@ -227,7 +223,7 @@ body {
     .equipment,
     .basics {
         display: flex;
-        padding: none;
+        padding: 0;
         float: left;
         text-align: center;
         justify-content: center;
