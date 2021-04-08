@@ -12,17 +12,17 @@ Fortitude gym is fictional gym created using HTML and CSS for my first milestone
 
 ### As a user, I wish to be able to: 
 
-Easily navigate the site to find what I need.
+* Easily navigate the site to find what I need.
 
-Find out what services are provided.
+* Find out what services are provided.
 
-Find location and contact details.
+* Find location and contact details.
 
-See what's included in membership.
+* See what's included in membership.
 
 ### As the site owner, I wish to:
 
-Aquire new customers and provide existing customers with any relevant information.
+* Aquire new customers and provide existing customers with any relevant information.
 
 ## Structure:
 
@@ -38,11 +38,11 @@ All pages will consist of a navigation bar, a callout with a sign up button for 
 
 ## Features:
 
-The navbar will bring users to their desired location.
+* The navbar will bring users to their desired location.
 
-The join now button will trigger a pop out modal prompting users to enter their details.
+* The join now button will trigger a pop out modal prompting users to enter their details.
 
-The social media links will all direct users to the associated website in a new window. 
+* The social media links will all direct users to the associated website in a new window. 
 
 ## Technologies:
 
@@ -60,13 +60,13 @@ The social media links will all direct users to the associated website in a new 
 
 * The social media links bring you to the corresponding page in a new tab.
 
-#### Bug fixes
+#### Bug fixes:
 
-* Not many interesting/noteworthy bugs to speak of, more time experimenting with styling
+* Not many interesting/noteworthy bugs to speak of, more time experimenting with styling and Bootstrap condflicts
 
-* Occasional contrast issues found with dev tools but easy fix with lighter shades of same color
+* Occasional contrast issues found with dev tools but easy fix with lighter shades of color
 
-#### User stoty Testing
+#### User stoty Testing:
 
 **Easily navigate the site to find what I need**
 
@@ -115,9 +115,7 @@ To deploy to Github pages, the following steps were taken:
 5. Type 'git clone' and paste the previously copied url
 
 
-## Credits:
-
-* 
+## Credits
 
 ### Content:
 Got text for classes and personal trainers from 24 hour fittness - https://www.24hourfitness.com/classes/studio/ https://www.24hourfitness.com/training/ 
