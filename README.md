@@ -128,7 +128,7 @@ To deploy to Github pages, the following steps were taken:
 1. Open [project repository](https://github.com/patricksingleton86/milestone-1-gym)
 2. Click the code dropdown beside the gittpod link
 3. Copy the clone url
-4. In your own IDE terminal, cheange the current eork environment to the location you wish the cloned directory to be made
+4. In your own IDE terminal, change the current work environment to the location you wish the cloned directory to be made
 5. Type 'git clone' and paste the previously copied url
 
 
