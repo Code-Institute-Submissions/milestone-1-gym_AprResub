@@ -72,11 +72,11 @@ Bug fixes:
 
 * Not many interesting/noteworthy bugs to speak of, more time experimenting with styling and occasional Bootstrap conflicts
 
-* Contrast issues found with dev tools but easy fix with lighter shades of color
+* Contrast issues found with dev tools but easy fix using lighter shade of color
 
-* Layout issue, was fine for desktop and mobile but appeared on tablet, fixed with media query at bottom of .css
+* Layout issues appeared on tablet, headings appeared beside block text instead of above it, fixed by using 'class-row' class from classes page on lifestyle tab
 
-User stoty Testing:
+User story Testing:
 
 _Easily navigate the site to find what I need:_
 
@@ -86,13 +86,20 @@ _Easily navigate the site to find what I need:_
 
 * Clear join button for any users interested in membership
 
+![Nav](assets/images/readme/nav.png)
+
 _Find out what services are provided:_
 
 * information on equipment, classes, and extra services provide through their respective nav-links
 
+![Services](assets/images/readme/services1.png)
+![services](assets/images/readme/services2.png)
+
 _Find contact info and details:_
 
-* contact and membership details in footer along with join button for extra details and offers
+* contact and membership details in footer of every page along with join button for extra details and offers
+
+![Info](assets/images/readme/info.png)
 
 ## Deployment:
 
